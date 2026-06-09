@@ -1,0 +1,26 @@
+AI Chain Tracker Showcase License
+
+Copyright (c) 2026. All rights reserved.
+
+This repository is published as a source-available product showcase.
+
+You may:
+- read the code and documentation for evaluation and educational reference;
+- run the included demo locally using the bundled demo-only data;
+- link to this repository when discussing the project.
+
+You may not, without prior written permission:
+- copy, redistribute, sublicense, sell, or commercially use this repository;
+- reuse the product design, private research model, data taxonomy, weighting
+  method, ranking method, or market-screening process;
+- infer, reconstruct, scrape, or publish the private production data model;
+- use this repository to provide investment, trading, or financial-advisory
+  services.
+
+The included demo data is synthetic and intentionally incomplete. It does not
+represent the production ticker universe, private taxonomy, ranking process, or
+calculation method.
+
+This project is provided "as is", without warranty of any kind. It is not
+investment advice.
+

@@ -1,0 +1,32 @@
+# macOS / editor noise
+.DS_Store
+._*
+.idea/
+.vscode/
+
+# Local environment and secrets
+.env
+.env.*
+.dev.vars
+*.local
+
+# Dependencies and caches
+node_modules/
+.npm/
+.cache/
+coverage/
+
+# Cloudflare / Wrangler local state
+.wrangler/
+wrangler-debug.log
+.mf/
+
+# Build output
+dist/
+build/
+out/
+
+# Runtime logs
+*.log
+logs/
+
