@@ -16,11 +16,10 @@ Live site: [https://artory.cc/](https://artory.cc/)
 Public demo with synthetic data:
 [https://peppersun.github.io/AI-Chain-Stock-Tracker/](https://peppersun.github.io/AI-Chain-Stock-Tracker/)
 
-![Redacted AI Chain Tracker homepage screenshot](assets/homepage-showcase-redacted.png)
+![AI Chain Tracker public demo homepage](assets/live-demo-homepage.png)
 
-The screenshot is intentionally redacted so the public repository can show the
-product surface without exposing the private ticker universe, taxonomy, or
-calculation model.
+The screenshot shows the public demo. It uses synthetic display units only; the
+production ticker universe, taxonomy, and calculation model remain private.
 
 ## What Is Included
 
