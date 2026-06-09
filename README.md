@@ -24,8 +24,6 @@ Chinese homepage:
 
 ![AI Chain Tracker Chinese homepage](assets/homepage-cn.png)
 
-The screenshots show the live product interface. The repository still excludes
-the source datasets, full private taxonomy, and calculation model.
 
 ## What Is Included
 
