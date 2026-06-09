@@ -9,6 +9,16 @@ The production ticker universe, segment taxonomy, subsegment taxonomy,
 weighting model, ranking model, and calculation method are private research
 assets and are not included.
 
+## Live Product
+
+Live site: [https://artory.cc/](https://artory.cc/)
+
+![Redacted AI Chain Tracker homepage screenshot](assets/homepage-showcase-redacted.png)
+
+The screenshot is intentionally redacted so the public repository can show the
+product surface without exposing the private ticker universe, taxonomy, or
+calculation model.
+
 ## What Is Included
 
 - A static demo interface using synthetic display units only.
