@@ -13,6 +13,9 @@ assets and are not included.
 
 Live site: [https://artory.cc/](https://artory.cc/)
 
+Public demo with synthetic data:
+[https://peppersun.github.io/AI-Chain-Stock-Tracker/](https://peppersun.github.io/AI-Chain-Stock-Tracker/)
+
 ![Redacted AI Chain Tracker homepage screenshot](assets/homepage-showcase-redacted.png)
 
 The screenshot is intentionally redacted so the public repository can show the
